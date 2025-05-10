@@ -60,12 +60,6 @@ Run the app
 
     Notifications for upcoming live sessions
 
-🤝 Contributing
-
-Feel free to fork the project and submit a pull request. Let's make learning accessible together!# Skillet 📚🎥
-
-**Skillet** is a full-featured educational app built to bridge the gap between learners and educators by enabling **course uploads** and **live-streamed classes** directly through the platform. The goal is to provide a seamless learning experience accessible from anywhere.
-
 ## 🚀 Features
 
 - 📦 Upload and manage educational courses
