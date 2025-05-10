@@ -20,19 +20,6 @@
 - **Database**: Firebase Firestore / MongoDB
 - **Authentication**: Firebase Auth / OAuth
 
-## 📦 Folder Structure
-
-lib/
-├── models/
-├── screens/
-│ ├── home/
-│ ├── course/
-│ ├── livestream/
-├── services/
-│ ├── api_service.dart
-├── widgets/
-├── main.dart
-
 
 ## 🧪 Setup Instructions
 
