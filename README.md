@@ -29,7 +29,7 @@
 
     Install dependencies
 
-flutter pub get
+   flutter pub get
 
 Setup Firebase
 
