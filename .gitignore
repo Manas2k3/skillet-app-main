@@ -52,4 +52,7 @@ android/app/google-services.json
 *.so
 
 /android/app/build/
+<<<<<<< HEAD
 assets/course_videos/
+=======
+>>>>>>> 70478c6cba1ba15ee81de51b975b026d3fa49cb2
