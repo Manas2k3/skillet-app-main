@@ -9,7 +9,6 @@
 - 📁 Organized course materials (videos, PDFs, etc.)
 - 🔍 Search and filter through courses
 - 🎥 Live class player with real-time interaction (chat/Q&A)
-- 📱 Responsive design for mobile and tablet
 - 🔐 Authentication and secure content access
 
 ## 🛠️ Tech Stack
